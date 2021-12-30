@@ -1,6 +1,6 @@
 # Project name : <b>Caropedia</b>
 ## Project Description
-<p>The project is a website ( aims to be a amobile application) that will help people find useful shops for their cars</p>
+<p>The project is a website ( aims to be a a mobile application) that will help people find useful shops for their cars. This website will facilitate the reservation of an appointment at any desired shop according to the needs and possibility of each car owner </p>
 
 ## SCRUM team
 
@@ -49,8 +49,11 @@
 <p> Our first priority will be to implement the payment system since it is the most crucial and sensitive part of our project , it needs to be done hastly , cleanly and perfectly to avoid any issues. The stakeholders and the customers will need to see the part concerned with their money done first and perfect to further support and help the development process. 
 Our second prioirty will be to implement some part of the core service of our project which is to search for the desired shops and find what suits the customer needs and wishes best </p>
 
+## Work flow
+
+
 ## Important links
 Google docs link for the other required documents
-- [Daily SCRUM Document ](https://docs.google.com/document/d/1S4k9KFKsozDwz3zLr3exy1AbcE3XwpEIcSdEKSuL5PI/edit?usp=sharing)
-- [Sprint Document]()
+- [Daily SCRUM and sprint Documents ](https://docs.google.com/document/d/1S4k9KFKsozDwz3zLr3exy1AbcE3XwpEIcSdEKSuL5PI/edit?usp=sharing)
 - [Jira project](https://id.atlassian.com/invite/p/jira-software?id=dterUSilSHenVwoLAeI7DA)
+- [Github repo](https://github.com/seifelewa/Agile_task )
