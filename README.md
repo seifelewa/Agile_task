@@ -50,7 +50,10 @@
 Our second prioirty will be to implement some part of the core service of our project which is to search for the desired shops and find what suits the customer needs and wishes best </p>
 
 ## Work flow
+<p> The work flow I decided to adopt for this project is the general agile workflow since it fits perfectly. We will start working on our project in each sprint till it achieves the acceptance tests. But as additional confirmation we will test every functioanlity implemented at every sprint to make sure the whole website interacts correctly with itself.
+Our workflow will always respect the normal vacations and the conditions any team member may pass through and will alwyas try to develop our strategy to work faster and better.</p>
 
+![Workflow](download.png "Workflow")
 
 ## Important links
 Google docs link for the other required documents
