@@ -34,6 +34,7 @@
 ## Story points
 <p> We estimate our points using story points not ideal days to better understand how much time we need where according to our usual pace of a work a story point is between <i> a day and a day and a half </i> </p>
 <p> As a team that worked together before and understand the capability of each member and knows how to work together in harmony we can achieve up to 30 story point per sprint but is also affected by the current situation of the members so we usually work as if we can only take 25 story points per sprint </p>
+
 - Payment option
 - Payment Integration
 - Homepage design
